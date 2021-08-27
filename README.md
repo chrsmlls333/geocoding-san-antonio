@@ -1,7 +1,7 @@
 # geocoding-san-antonio
 Google Sheets App Script to connect to local municipal APIs and parse address data.
 
-**See more help/usage info in [Variables.gs](./1 - Variables.gs)**
+See more help/usage info in [Variables.gs](./1%20-%20Variables.gs)
 
 ### TODO
 - implement batch API usage with Geocoding https://www.geocod.io/docs/#batch-geocoding
